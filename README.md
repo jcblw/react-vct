@@ -1,5 +1,7 @@
 # React VCT
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/react-vct.svg)](https://greenkeeper.io/)
+
 ### Visual Continuity Transitions
 
 This set of components attempts to make doing visual continuity transitions easier.
